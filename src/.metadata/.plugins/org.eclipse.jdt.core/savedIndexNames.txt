@@ -1,0 +1,17 @@
+INDEX VERSION 1.126+/media/shared/Dropbox/project-files/ros_workspace/stacks/rosjava_tutorial_pubsub/src/.metadata/.plugins/org.eclipse.jdt.core
+844990029.index
+655192271.index
+1694475529.index
+1609760852.index
+749790635.index
+2758540083.index
+2483699546.index
+1974240020.index
+1650746800.index
+4097270615.index
+468344468.index
+4026407524.index
+957058924.index
+3081843611.index
+3753125601.index
+960637584.index

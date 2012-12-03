@@ -1,0 +1,21 @@
+<package>
+  <description brief="UAV Target Tracking">
+      Target tracking with uavs
+  </description>
+  <author>Erik Cowley</author>
+  <license></license>
+  <review status="unreviewed" notes="" />
+
+  <url></url>
+
+  <depend package="roscpp" />
+  <depend package="std_msgs" />
+  <depend package="sensor_msgs" />
+  <depend package="ardrone_autonomy" />
+  <depend package="cv_bridge" />
+  <depend package="opencv2" />
+  <depend package="libuvc_camera" />
+
+</package>
+
+
